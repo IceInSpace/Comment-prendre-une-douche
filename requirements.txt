@@ -1,0 +1,2 @@
+# Aucune dépendance externe : douche.py n'utilise que la bibliothèque standard de Python.
+# Si vous ajoutez un jour un paquet (ex. colorama==0.4.6), écrivez-le sur une ligne ci-dessous.
